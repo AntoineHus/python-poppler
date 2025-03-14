@@ -45,7 +45,7 @@ Ideally, you should install the package inside a Python virtual environment.
 Installing from git
 -------------------
 
-First you msut clone the repository:
+First you must clone the repository:
 
 .. code-block:: bash
 
